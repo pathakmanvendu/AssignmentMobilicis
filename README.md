@@ -1,5 +1,7 @@
 Task to Complete:-
+
 Develop an iOS App using “Swift” to retrieve following Device/iPhone Information: 
+
 	•	Model Name & Model Number
 	•	iOS Version
 	•	Device’s Serial Number
