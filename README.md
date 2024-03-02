@@ -14,5 +14,3 @@ Develop an iOS App using “Swift” to retrieve following Device/iPhone Informa
 	•	GPU Information
 	•	IMEI
 
-
- 
