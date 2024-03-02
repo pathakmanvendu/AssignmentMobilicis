@@ -39,4 +39,13 @@ let device = Device.current
 device.batteryState!
 ```
 
-5:- PROCESSOR INFORMATION:- 
+5:- PROCESSOR INFORMATION:- TO get the information about CPU and the processor that is being used we can directly use DEVICEKIT.
+```swift
+device.cpu
+```
+
+### Add on:- 
+I have added one information that is the screen size of the device with the help of DeviceKit.
+```swift
+device.diagonal
+```
