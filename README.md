@@ -49,3 +49,8 @@ I have added one information that is the screen size of the device with the help
 ```swift
 device.diagonal
 ```
+
+
+My Experience:- 
+Searched alot but we cannot access information like Device Serial Number, IMEI number as defined by the privacy policies of apple. Camera information can be accessed if we first click a photo, but to get without using the camera we need to hardcode the information for camera.
+Same for the Battery Health and GPU information.
